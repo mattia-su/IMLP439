@@ -16,3 +16,6 @@
 
 
 [Homework5-2](https://github.com/mattia-su/IMLP439/blob/main/Unit05/Unit05_2/SVM%E5%AF%A6%E6%88%B0.ipynb)
+
+
+[Homework6](https://github.com/mattia-su/IMLP439/tree/main/Unit06/Unit06)
