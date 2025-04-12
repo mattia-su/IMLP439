@@ -19,3 +19,6 @@
 
 
 [Homework6](https://github.com/mattia-su/IMLP439/tree/main/Unit06/Unit06)
+
+
+[Final project](https://github.com/mattia-su/IMLP439/blob/main/Final%20project/Wine%20Quality%20Prediction.ipynb)
